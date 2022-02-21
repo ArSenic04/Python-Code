@@ -12,11 +12,11 @@ class shree:
 shivam = shree(18,"arsenic","Pizza")
 print(shivam.food)
 """This is for self used in printdetails function"""
-# arsenic= shree()
-# shivam.age=18
-# arsenic.age=19
-# shivam.pet="arsenic"
-# arsenic.pet="shivam"
-# shivam.food= "Pizza"
-# arsenic.food="Burger"
-# arsenic.printdetails()
+arsenic= shree()
+shivam.age=18
+arsenic.age=19
+shivam.pet="arsenic"
+arsenic.pet="shivam"
+shivam.food= "Pizza"
+arsenic.food="Burger"
+arsenic.printdetails()
