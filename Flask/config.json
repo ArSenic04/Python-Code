@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flask intro",
+    "prod_uri":"mysql://root:@localhost/flask intro",
+    "fb_url": "https://facebook.com/Coding Thunder",
+    "tw_url": "https://twitter.com/Coding Thunder",
+    "gi_url": "https://github.com/Coding Thunder",
+    "gmail-user": "ardeshnashivam13@gmail.com",
+    "gmail-password": "shivamshivam13"
+
+  }
+
+
+}
